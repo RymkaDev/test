@@ -1,0 +1,2 @@
+M:\CliExt\Debug\L2Servers.dll
+D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\Debug\L2Servers.dll

@@ -1,0 +1,26 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  stdafx.cpp
+cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Splash.cpp
+  Parser.cpp
+  Packet.cpp
+  Other.cpp
+  NWindow.cpp
+  NetworkHandler.cpp
+  MemoryTools.cpp
+  MemoryProtector.cpp
+  Memory.cpp
+  MD5.cpp
+  JobHandler.cpp
+  Job.cpp
+  HWID.cpp
+D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\HWID.cpp(131,32): warning C4838: la conversión de 'int' en 'const char' requiere una conversión de restricción
+  Hook.cpp
+  CliExt.cpp
+D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\CliExt.cpp(414,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ClientSocket.cpp
+  AntiBot.cpp
+  Generando código...
+AntiBot.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+     Creando biblioteca D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\Debug\L2Servers.lib y objeto D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\Debug\L2Servers.exp
+  CliExt.vcxproj -> D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\Debug\L2Servers.dll

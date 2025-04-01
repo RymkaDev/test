@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L2Servers", "CliExt.vcxproj", "{E0866AA6-DE1F-4233-8D32-752FF252C722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0866AA6-DE1F-4233-8D32-752FF252C722}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0866AA6-DE1F-4233-8D32-752FF252C722}.Debug|x86.Build.0 = Debug|Win32
+		{E0866AA6-DE1F-4233-8D32-752FF252C722}.Release|x86.ActiveCfg = Release|Win32
+		{E0866AA6-DE1F-4233-8D32-752FF252C722}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF1D7F3-3358-4C0B-97AC-C981AAF0E650}
+	EndGlobalSection
+EndGlobal

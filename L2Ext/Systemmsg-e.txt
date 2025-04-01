@@ -1,0 +1,501 @@
+2154	1	Collected Spirits - $s1.	0	79	9B	B0	FF			2	0	3	1	0	$s1 Spirits Collected!	none
+2405	1	Your $s1 has successfully been enhanced.	0	79	9B	B0	FF			2	0	3	1	0	The Spirit Fuse has been completed.	none
+2406	1	The enhancement has failed! Your $s1 has scattered into pieces. Some of the used spirits were saved.	0	79	9B	B0	FF			2	0	3	1	0		none
+2407	1	You're using outdated client, please update your game.	4	0	0	FF	FF	ItemSound3.sys_failed		0	0	0	0	0		popup
+2408	1	$s1 has been added to buff list.	0	79	9B	B0	FF			0	0	0	0	0		none
+2409	1	$s1 has been added to summon buff list.	0	79	9B	B0	FF			0	0	0	0	0		none
+2410	1	$s1 will disappear in $s2 minute(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2411	1	$s1's life time has been refreshed.	0	79	9B	B0	FF			0	0	0	0	0		none
+2412	1	$s1 has disappeared.	0	79	9B	B0	FF			0	0	0	0	0		none
+2413	1	Would you like to teleport to $s1 ?	0	79	9B	B0	FF			0	0	0	0	0		none
+2414	1	Becouse clan leader is offline the $s1(s) will be given to $s2.	0	79	9B	B0	FF			0	0	0	0	0		none
+2415	1	There are $s1 second(s) remaining in $s2's re-use time.	0	79	9B	B0	FF			0	0	0	0	0		none
+2416	1	The TvT match will start in $s1 second(s).	0	79	9B	B0	FF			2	0	4	1	0	$s1 second(s) before the match begins!	none
+2417	1	Team $s1 has won the TvT match.	0	79	9B	B0	FF			2	0	3	1	0	Team $s1 is victorious!	none
+2418	1	Start the fight!.	0	79	9B	B0	FF			2	0	3	1	0	Fight !	none
+2419	1	You've got too low level to be able to use The Cross Class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2420	1	You already have cross class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2421	1	Creating cross class has been successful.	0	79	9B	B0	FF			0	0	0	0	0		none
+2422	1	Using cross class on a sub class is not allowed.	0	79	9B	B0	FF			0	0	0	0	0		none
+2423	1	The Cross class and base class to be from same race.	0	79	9B	B0	FF			0	0	0	0	0		none
+2424	1	The Cross class system is currently disabled.	0	79	9B	B0	FF			0	0	0	0	0		none
+2425	1	You already are on the first level of cross class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2426	1	You already are on the second level of cross class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2427	1	Switching cross class has been successful.	0	79	9B	B0	FF			0	0	0	0	0		none
+2428	1	You have to got cross class to be able to switch between them.	0	79	9B	B0	FF			0	0	0	0	0		none
+2429	1	Using cross class on a sub class is not allowed.	0	79	9B	B0	FF			0	0	0	0	0		none
+2430	1	Deleting cross class has been successful.	0	79	9B	B0	FF			0	0	0	0	0		none
+2431	1	Deleting cross class is not allowed at the moment.	0	79	9B	B0	FF			0	0	0	0	0		none
+2432	1	You cannot participate in the Grand Olympiad Games with a character in their cross class level 2.	0	79	9B	B0	FF			0	0	0	0	0		none
+2433	1	You have to be 3rd class profession to be able to make a cross class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2434	1	You have to be under level 2 of cross class to be able to manipulate subclass.	0	79	9B	B0	FF			0	0	0	0	0		none
+2435	1	Using cross class on the current subclass is not allowed.	0	79	9B	B0	FF			0	0	0	0	0		none
+2436	1	You already have higher VIP status.	0	79	9B	B0	FF			0	0	0	0	0		none
+2437	1	Invalid VIP status.	0	79	9B	B0	FF			0	0	0	0	0		none
+2438	1	Your character level is too low to acquire current VIP status.	0	79	9B	B0	FF			0	0	0	0	0		none
+2439	1	Invalid item count for VIP status.	0	79	9B	B0	FF			0	0	0	0	0		none
+2440	1	Congratulations! You've acquired VIP status for $s1 day(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2441	1	Your VIP status will expire in $s1 day(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2442	1	You don't have the VIP status at the moment.	0	79	9B	B0	FF			0	0	0	0	0		none
+2443	1	Your VIP status will expire in $s1 minute(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2444	1	Your VIP status just expired.	0	79	9B	B0	FF			0	0	0	0	0		none
+2445	1	Your VIP status is currently level $s1.	0	79	9B	B0	FF			0	0	0	0	0		none
+2446	1	The VIP System is currently disabled.	0	79	9B	B0	FF			0	0	0	0	0		none
+2447	1	Specified VIP status requires $s1 $s2(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2448	1	Vote points: $s1.	0	79	9B	B0	FF			0	0	0	0	0		none
+2449	1	The Vote Reward System is currently disabled.	0	79	9B	B0	FF			0	0	0	0	0		none
+2450	1	You've got not enough Vote Points to perform this action.	0	79	9B	B0	FF			0	0	0	0	0		none
+2451	1	Watch your language!	0	79	9B	B0	FF			0	0	0	0	0		none
+2452	1	You'll be respawned in $s1 second(s)!	0	79	9B	B0	FF			0	0	0	0	0		none
+2453	1	$s1 : $s2 %	0	79	9B	B0	FF			0	0	0	0	0		none
+2454	1	Your character level is too low.	0	79	9B	B0	FF			0	0	0	0	0		none
+2455	1	Your character level is too high.	0	79	9B	B0	FF			0	0	0	0	0		none
+2456	1	You've got not enough adena.	0	79	9B	B0	FF			0	0	0	0	0		none
+2457	1	$s1 has been added to exception buff list.	0	79	9B	B0	FF			0	0	0	0	0		none
+2458	1	You've just sold $s1 $s2 for $s3 adena through Auction House.	0	79	9B	B0	FF			0	0	0	0	0		none
+2459	1	Incomming payment $s1 $s2 from $s3 for $s4 $s5 sold through Auction House.	0	79	9B	B0	FF			0	0	0	0	0		none
+2460	1	You cannot use this chat at the moment, please try again later.	0	79	9B	B0	FF			0	0	0	0	0		none
+2461	1	Would you like to be engaged with $s1 ?	0	79	9B	B0	FF			0	0	0	0	0		none
+2462	1	Would you like to be married with $s1 ?	0	79	9B	B0	FF			0	0	0	0	0		none
+2463	1	Would you like to break your relationship with $s1 ?	0	79	9B	B0	FF			0	0	0	0	0		none
+2500	1	You cannot use trade while your pet is summoned!	0	79	9B	B0	FF			0	0	0	0	0		none
+2501	1	You cannot trade with character who got a summoned pet!	0	79	9B	B0	FF			0	0	0	0	0		none
+2502	1	You cannot give this item to pet!	0	79	9B	B0	FF			0	0	0	0	0		none
+2503	1	Your character has been locked!	0	79	9B	B0	FF			0	0	0	0	0		none
+2504	1	Please enter 4 digits to create new PIN:	0	79	9B	B0	FF			0	0	0	0	0		none
+2505	1	Please enter the PIN code to unlock your character:	0	79	9B	B0	FF			0	0	0	0	0		none
+2506	1	Your character has been unlocked!	0	79	9B	B0	FF			0	0	0	0	0		none
+2507	1	PIN code doesn't match!	0	79	9B	B0	FF			0	0	0	0	0		none
+2508	1	Invalid character!	0	79	9B	B0	FF			0	0	0	0	0		none
+2509	1	Invalid PIN length!	0	79	9B	B0	FF			0	0	0	0	0		none
+2510	1	Please confirm your new PIN code:	0	79	9B	B0	FF			0	0	0	0	0		none
+2511	1	You've reached PIN code attempt limit!	0	79	9B	B0	FF			0	0	0	0	0		none
+2512	1	The effects of Spawn Protection flow through you.	0	79	9B	B0	FF			0	0	0	0	0		none
+2513	1	The effect of Spawn Protection has been removed.	0	79	9B	B0	FF			0	0	0	0	0		none
+2514	1	The effect of Spawn Protection will expire in $s1 second(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2515	1	You cannot use this chat at the moment, please try again later.	0	79	9B	B0	FF			0	0	0	0	0		none
+2516	1	Price of $s1 is out of allowed price range for this item.	0	79	9B	B0	FF			0	0	0	0	0		none
+2517	1	You cannot sell/buy that many $s1 at once.	0	79	9B	B0	FF			0	0	0	0	0		none
+2518	1	Price of $s1 is out of allowed price range for this recipe.	0	79	9B	B0	FF			0	0	0	0	0		none
+2519	1	You cannot add any more points to this attribute.	0	79	9B	B0	FF			0	0	0	0	0		none
+2520	1	You've increased one of your base attribute.	0	79	9B	B0	FF			0	0	0	0	0		none
+2521	1	You don't have any bonus points to distribute.	0	79	9B	B0	FF			0	0	0	0	0		none
+2522	1	You don't have enough item(s) to pay for rebirth.	0	79	9B	B0	FF			0	0	0	0	0		none
+2523	1	You have reached rebirths limit.	0	79	9B	B0	FF			0	0	0	0	0		none
+2524	1	Your level is to low to perform a rebirth.	0	79	9B	B0	FF			0	0	0	0	0		none
+2525	1	You don't have enough item(s) to acquire AIO status!	0	79	9B	B0	FF			0	0	0	0	0		none
+2526	1	Congratulations! You have acquired AIO status!	0	79	9B	B0	FF			0	0	0	0	0		none
+2527	1	Your level is too low to acquire AIO status!	0	79	9B	B0	FF			0	0	0	0	0		none
+2528	1	This AIO option is disabled!	0	79	9B	B0	FF			0	0	0	0	0		none
+2529	1	AIO status can be acquired only in main class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2530	1	You already have AIO status!	0	79	9B	B0	FF			0	0	0	0	0		none
+2531	1	Your AIO status will be removed shortly.	0	79	9B	B0	FF			0	0	0	0	0		none
+2532	1	Please switch to your main class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2533	1	You have to be AIO character in order to use this option!	0	79	9B	B0	FF			0	0	0	0	0		none
+2534	1	Your AIO status just expired!	0	79	9B	B0	FF			0	0	0	0	0		none
+2535	1	Your AIO status will expire in $s1 day(s) $s2 hour(s) and $s3 minute(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2536	1	You have $s1 second(s) left in this instance zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2537	1	You have no time left in this instance zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2538	1	You don't have enough item(s) to change the class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2539	1	Your level is too low. Please come back when your level will be 76 or above.	0	79	9B	B0	FF			0	0	0	0	0		none
+2540	1	This class cannot be acquired through Class Manager.	0	79	9B	B0	FF			0	0	0	0	0		none
+2541	1	Your level is too low. Please come back when your level will be 40 or above.	0	79	9B	B0	FF			0	0	0	0	0		none
+2542	1	Your level is too low. Please come back when your level will be 20 or above.	0	79	9B	B0	FF			0	0	0	0	0		none
+2543	1	You cannot change class anymore!	0	79	9B	B0	FF			0	0	0	0	0		none
+2544	1	Congratulations! You've changed your class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2545	1	Congratulations! You've became a noblesse.	0	79	9B	B0	FF			0	0	0	0	0		none
+2546	1	You don't have enough item(s) to become a nobless.	0	79	9B	B0	FF			0	0	0	0	0		none
+2547	1	Your subclass have to be at level 75 or above to become a nobless.	0	79	9B	B0	FF			0	0	0	0	0		none
+2548	1	In order to become a nobless please switch to your subclass.	0	79	9B	B0	FF			0	0	0	0	0		none
+2549	1	You already have a nobless status.	0	79	9B	B0	FF			0	0	0	0	0		none
+2550	1	Congratulations! You've finished Sub Class Quest.	0	79	9B	B0	FF			0	0	0	0	0		none
+2551	1	You dont' have enough item(s) to acquire Sub Class Quest.	0	79	9B	B0	FF			0	0	0	0	0		none
+2552	1	Your level have to be 75 or above to be able to acquire sub class.	0	79	9B	B0	FF			0	0	0	0	0		none
+2553	1	$s1 will disappear in $s2 hour(s) and $s3 minute(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2554	1	Fixed time:.	0	79	9B	B0	FF			0	0	0	0	0		none
+2555	1	$s1 will disappear in less than a minute.	0	79	9B	B0	FF			0	0	0	0	0		none
+2556	1	You have entered a combat zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2557	1	You have left a combat zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2558	1	Your character level is to low.	0	79	9B	B0	FF			0	0	0	0	0		none
+2559	1	Your character level is to high.	0	79	9B	B0	FF			0	0	0	0	0		none
+2560	1	You cannot use this teleport during the castle siege.	0	79	9B	B0	FF			0	0	0	0	0		none
+2561	1	You cannot use this teleport while participing in olympiad games!	0	79	9B	B0	FF			0	0	0	0	0		none
+2562	1	You cannot use teleport in combat mode!	0	79	9B	B0	FF			0	0	0	0	0		none
+2563	1	You don't have enough adena to pay for our service!	0	79	9B	B0	FF			0	0	0	0	0		none
+2564	1	You don't have enough item(s) to pay for our service!	0	79	9B	B0	FF			0	0	0	0	0		none
+2565	1	You have entered a Mining Zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2566	1	You have left a Mining Zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2567	1	You have to be alive to continue!	0	79	9B	B0	FF			0	0	0	0	0		none
+2568	1	You have already made a stacked class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2569	1	You have to finish 3rd class quest to be able to stack another class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2570	1	You've got too low level to be able to stack the class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2571	1	You don't have enough item(s) to pay for switching the class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2572	1	You don't have a stacked class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2573	1	You don't have enough item(s) to remove the stacked class!	0	79	9B	B0	FF			0	0	0	0	0		none
+2574	1	Only noble characters are allowed in this zone.	0	79	9B	B0	FF			0	0	0	0	0		none
+2575	1	$s1 will disappear in $s2 minute(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2576	1	$s1 life time expired.	0	79	9B	B0	FF			0	0	0	0	0		none
+2577	1	You cannot participe in TvT event at the moment.	0	79	9B	B0	FF			0	0	0	0	0		none
+2578	1	Only alive players can participe in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2579	1	You cannot participe in TvT event while being in current location!	0	79	9B	B0	FF			0	0	0	0	0		none
+2580	1	You've been unregistered from TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2581	1	You cannot unregister from TvT event at the moment.	0	79	9B	B0	FF			0	0	0	0	0		none
+2582	1	The Cursed Weapon owner cannot participe in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2583	1	You cannot register more than one character in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2584	1	You've been registered in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2585	1	You don't have enough item(s).	0	79	9B	B0	FF			0	0	0	0	0		none
+2586	1	There are no empty slots in TvT event, please come back later.	0	79	9B	B0	FF			0	0	0	0	0		none
+2587	1	Your level is too high to participe in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2588	1	Your level is too low to participe in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2589	1	You already are participing in TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2590	1	You're outside combat zone, you'll be expelled from TvT event in $s1 seconds.	0	79	9B	B0	FF			0	0	0	0	0		none
+2591	1	You're outside combat zone, you've been expelled from TvT event.	0	79	9B	B0	FF			0	0	0	0	0		none
+2592	1	Your level is too low to be married!	0	79	9B	B0	FF			0	0	0	0	0		none
+2593	1	Your level is too high to be married!	0	79	9B	B0	FF			0	0	0	0	0		none
+2594	1	You cannot engage/marry anyone at the moment!	0	79	9B	B0	FF			0	0	0	0	0		none
+2595	1	The penalty for breaking your last relationship didn't pass yet.	0	79	9B	B0	FF			0	0	0	0	0		none
+2596	1	Congratulation! Your engagement has been accepted!	0	79	9B	B0	FF			0	0	0	0	0		none
+2597	1	Congratulation! You're now engaged.	0	79	9B	B0	FF			0	0	0	0	0		none
+2598	1	Your friend rejected your engagement!	0	79	9B	B0	FF			0	0	0	0	0		none
+2599	1	Your partner have to be online!	0	79	9B	B0	FF			0	0	0	0	0		none
+2600	1	Your partner doesn't meet requirements!	0	79	9B	B0	FF			0	0	0	0	0		none
+2601	1	Homo marriages are not allowed in this server!	0	79	9B	B0	FF			0	0	0	0	0		none
+2602	1	You can engage only players from your friendlist!	0	79	9B	B0	FF			0	0	0	0	0		none
+2603	1	Your partner have to be online in order to get engaged!	0	79	9B	B0	FF			0	0	0	0	0		none
+2604	1	You're now asking your partner if he/she will marry you...	0	79	9B	B0	FF			0	0	0	0	0		none
+2605	1	Your partner have to equip Formal Wear!	0	79	9B	B0	FF			0	0	0	0	0		none
+2606	1	In order to continue please equip Formal Wear!	0	79	9B	B0	FF			0	0	0	0	0		none
+2607	1	Your partner doesn't have enough required items!	0	79	9B	B0	FF			0	0	0	0	0		none
+2608	1	You don't have enough required items!	0	79	9B	B0	FF			0	0	0	0	0		none
+2609	1	Your partner is too far away from you!	0	79	9B	B0	FF			0	0	0	0	0		none
+2610	1	Seems like your partner isn't engaged with you at the moment.	0	79	9B	B0	FF			0	0	0	0	0		none
+2611	1	You can marry players from your friendlist only!	0	79	9B	B0	FF			0	0	0	0	0		none
+2612	1	Your partner have to be online in order to get married!	0	79	9B	B0	FF			0	0	0	0	0		none
+2613	1	In order to get married you have to engage first!	0	79	9B	B0	FF			0	0	0	0	0		none
+2614	1	Congratulation! You're now married!	0	79	9B	B0	FF			0	0	0	0	0		none
+2615	1	Your partner isn't ready yet to be married!	0	79	9B	B0	FF			0	0	0	0	0		none
+2616	1	You're no longer in relationship with your partner!	0	79	9B	B0	FF			0	0	0	0	0		none
+2617	1	Go to love reuse delay didn't pass yet!	0	79	9B	B0	FF			0	0	0	0	0		none
+2618	1	Your love is engaged in fight or in a zone that forbids teleportation!	0	79	9B	B0	FF			0	0	0	0	0		none
+2619	1	You cannot teleport to your love in current state!	0	79	9B	B0	FF			0	0	0	0	0		none
+2620	1	You have to be married in order to get .gotolove command working.	0	79	9B	B0	FF			0	0	0	0	0		none
+2621	1	Congratulations! You crafting has been doubled.	0	79	9B	B0	FF			0	0	0	0	0		none
+2622	1	$s1 Killing spree!	0	79	9B	B0	FF			0	0	0	0	0		none
+2623	1	$s1 Rampage!	0	79	9B	B0	FF			0	0	0	0	0		none
+2624	1	$s1 Unstoppable!	0	79	9B	B0	FF			0	0	0	0	0		none
+2625	1	$s1 Dominating!	0	79	9B	B0	FF			0	0	0	0	0		none
+2626	1	$s1 Godlike!	0	79	9B	B0	FF			0	0	0	0	0		none
+2627	1	$s1 Legendary!	0	79	9B	B0	FF			0	0	0	0	0		none
+2628	1	Captcha System: Be carefull, maybe you will teleported...	3	0	0	F5	FF			0	0	0	0	0		none
+2629	1	Captcha System: Multiple Wrong Answer! You will teleported back to Town!	3	0	0	F5	FF			0	0	0	0	0		none
+2630	1	Captcha System: Too much Wrong Answers! You will teleported to Jail!	3	0	0	F5	FF			0	0	0	0	0		none
+2631	1	Captcha System: Correct Answer! Have a nice day!	0	79	9B	B0	FF			0	0	0	0	0		none
+2632	1	You have entered a DailyPvP zone.	3	0	0	F5	FF			0	0	0	0	0		none
+2633	1	You have left a DailyPvP Zone.	3	0	0	F5	FF			0	0	0	0	0		none
+2634	1	Captcha System: You have $s1 second(s) to solve this question.	3	0	0	F5	FF			2	0	5	1	1	Solve Remaining Time: $s1 seconds!	none
+2635	1	Captcha System: Time Up! You will teleported back to town.	3	0	0	F5	FF			0	0	0	0	0		none
+2636	1	Captcha System: You cannot solve captcha right now.	3	0	0	F5	FF			0	0	0	0	0		none
+2637	1	Jail System: You have been jailed for $s1 minute(s).	3	0	0	F5	FF			0	0	0	0	0		none
+2638	1	Jail System: You have been unjailed.	3	0	0	F5	FF			0	0	0	0	0		none
+2639	1	Jail System: You have $s1 hour(s) and $s2 minute(s) until get unjailed.	3	0	0	F5	FF			0	0	0	0	0		none
+2640	1	Captcha System: Be carefull you may get punished!	3	0	0	F5	FF			0	0	0	0	0		none
+2641	1	Jail System: You have less than a minute until get unjailed.	3	0	0	F5	FF			0	0	0	0	0		none
+2642	1	Your class isn't allowed on that TvT Event!	0	79	9B	B0	FF			0	0	0	0	0		none
+2643	1	$s1 added an Augmented $s2 +$s3 into the trade.	4	79	9B	B0	FF			0	0	0	0	0		popup
+2644	1	$s1 added an Augmented $s2 +$s3 into the trade with the following augmentation effects:	0	B2	B0	5A	FF			0	0	0	0	0		none
+2645	1	$s1	0	6D	6B	E1	FF			0	0	0	0	0		none
+2646	1	Please be extra cautious during this transaction to prevent inadvertent damage or loss. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2647	1	$s1 added a $s2 +$s3 into the trade with no augmentation effects. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2648	1	You don't have any party in order to register on event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2649	1	Only Party Leader can register on event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2650	1	Your party has been registered into the event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2651	1	You don't have any party in order to un-register on event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2652	1	Only Party Leader can un-register on event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2653	1	Your party has been un-registered into the event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2654	1	You've been registered in Korean Event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2655	1	You Fight with $s1!	0	79	9B	B0	FF			2	0	5	1	0	You Fight with $s1!	none
+2656	1	Player $s1 fight with Player $s2!	0	79	9B	B0	FF			2	0	5	1	0	Player $s1 fight with Player $s2!	none
+2657	1	You have been choosen to play on Korean Event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2658	1	Unfortunately you wont participate on the event. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2659	1	Congrats! You won this round! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2660	1	$s1	3	0	0	F5	FF			0	0	0	0	0		none
+2661	1	$s1	3	19	D5	4A	FF			0	0	0	0	0		none
+
+2662	1	You can use auction house only into Peace Mode! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2663	1	You can use auction house only if you don't have Karma! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2664	1	You cannot use auction house during combat mode! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2665	1	You don't have enough adena to pay auction fee. 	0	79	9B	B0	FF			0	0	0	0	0		none
+2666	1	You cannot set more auctions! You reached the limit! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2667	1	Your auction has been created! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2668	1	You successfully removed your auction! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2669	1	Your auction cannot be found, please try again! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2670	1	You don't have enough space in your inventory in order to delete your auction! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2671	1	Something gone wrong with the cancellation of the auction. Please Try Again! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2672	1	We cannot locate your auction, propably it sold! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2673	1	The auction doesn't exist anymore! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2674	1	We're sorry there are not enough items left in the auction! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2675	1	You dont have the required items in order to buy this item! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2676	1	You've got not enough space in your inventory! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2677	1	You cannot buy your own item! 	0	79	9B	B0	FF			0	0	0	0	0		none
+2678	1	You've just bought $s1 $s2 for $s3 $s4 through Auction House.! 	0	79	9B	B0	FF			0	0	0	0	0		none
+
+2679	1		2	79	9B	B0	FF			8	0	3	1	0	$s1 has just been spawned!	server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2154	1	a,Collected Spirits - $s1.\0	0	79	9B	B0	FF	a,	a,	2	0	3	1	0	a,$s1 Spirits Collected!\0	a,none\0
+2405	1	a,Your $s1 has successfully been enhanced.\0	0	79	9B	B0	FF	a,	a,	2	0	3	1	0	a,The Spirit Fuse has been completed.\0	a,none\0
+2406	1	a,The enhancement has failed! Your $s1 has scattered into pieces. Some of the used spirits were saved.\0	0	79	9B	B0	FF	a,	a,	2	0	3	1	0	a,	a,none\0
+2407	1	a,You're using outdated client, please update your game.\0	4	0	0	FF	FF	a,ItemSound3.sys_failed\0	a,	0	0	0	0	0	a,	a,popup\0
+2408	1	a,$s1 has been added to buff list.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2409	1	a,$s1 has been added to summon buff list.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2410	1	a,$s1 will disappear in $s2 minute(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2411	1	a,$s1's life time has been refreshed.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2412	1	a,$s1 has disappeared.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2413	1	a,Would you like to teleport to $s1 ?\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2414	1	a,Becouse clan leader is offline the $s1(s) will be given to $s2.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2415	1	a,There are $s1 second(s) remaining in $s2's re-use time.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2416	1	a,The TvT match will start in $s1 second(s).\0	0	79	9B	B0	FF	a,	a,	2	0	4	1	0	a,$s1 second(s) before the match begins!\0	a,none\0
+2417	1	a,Team $s1 has won the TvT match.\0	0	79	9B	B0	FF	a,	a,	2	0	3	1	0	a,Team $s1 is victorious!\0	a,none\0
+2418	1	a,Start the fight!.\0	0	79	9B	B0	FF	a,	a,	2	0	3	1	0	a,Fight!\0	a,none\0
+2419	1	a,You've got too low level to be able to use The Cross Class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2420	1	a,You already have cross class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2421	1	a,Creating cross class has been successful.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2422	1	a,Using cross class on a sub class is not allowed.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2423	1	a,The Cross class and base class to be from same race.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2424	1	a,The Cross class system is currently disabled.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2425	1	a,You already are on the first level of cross class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2426	1	a,You already are on the second level of cross class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2427	1	a,Switching cross class has been successful.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2428	1	a,You have to got cross class to be able to switch between them.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2429	1	a,Using cross class on a sub class is not allowed.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2430	1	a,Deleting cross class has been successful.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2431	1	a,Deleting cross class is not allowed at the moment.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2432	1	a,You cannot participate in the Grand Olympiad Games with a character in their cross class level 2.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2433	1	a,You have to be 3rd class profession to be able to make a cross class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2434	1	a,You have to be under level 2 of cross class to be able to manipulate subclass.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2435	1	a,Using cross class on the current subclass is not allowed.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2436	1	a,You already have higher VIP status.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2437	1	a,Invalid VIP status.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2438	1	a,Your character level is too low to acquire current VIP status.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2439	1	a,Invalid item count for VIP status.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2440	1	a,Congratulations! You've acquired VIP status for $s1 day(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2441	1	a,Your VIP status will expire in $s1 day(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2442	1	a,You don't have the VIP status at the moment.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2443	1	a,Your VIP status will expire in $s1 minute(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2444	1	a,Your VIP status just expired.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2445	1	a,Your VIP status is currently level $s1.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2446	1	a,The VIP System is currently disabled.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2447	1	a,Specified VIP status requires $s1 $s2(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2448	1	a,Vote points: $s1.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2449	1	a,The Vote Reward System is currently disabled.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2450	1	a,You've got not enough Vote Points to perform this action.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2451	1	a,Watch your language!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2452	1	a,You'll be respawned in $s1 second(s)!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2453	1	a,$s1 : $s2 %\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2454	1	a,Your character level is too low.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2455	1	a,Your character level is too high.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2456	1	a,You've got not enough adena.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2457	1	a,$s1 has been added to exception buff list.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2458	1	a,You've just sold $s1 $s2 for $s3 adena through Auction House.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2459	1	a,Incomming payment $s1 $s2 from $s3 for $s4 $s5 sold through Auction House.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2460	1	a,You cannot use this chat at the moment, please try again later.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2461	1	a,Would you like to be engaged with $s1 ?\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2462	1	a,Would you like to be married with $s1 ?\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2463	1	a,Would you like to break your relationship with $s1 ?\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2500	1	a,You cannot use trade while your pet is summoned!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2501	1	a,You cannot trade with character who got a summoned pet!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2502	1	a,You cannot give this item to pet!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2503	1	a,Your character has been locked!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2504	1	a,Please enter 4 digits to create new PIN:\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2505	1	a,Please enter the PIN code to unlock your character:\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2506	1	a,Your character has been unlocked!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2507	1	a,PIN code doesn't match!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2508	1	a,Invalid character!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2509	1	a,Invalid PIN length!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2510	1	a,Please confirm your new PIN code:\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2511	1	a,You've reached PIN code attempt limit!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2512	1	a,The effects of Spawn Protection flow through you.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2513	1	a,The effect of Spawn Protection has been removed.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2514	1	a,The effect of Spawn Protection will expire in $s1 second(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2515	1	a,You cannot use this chat at the moment, please try again later.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2516	1	a,Price of $s1 is out of allowed price range for this item.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2517	1	a,You cannot sell/buy that many $s1 at once.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2518	1	a,Price of $s1 is out of allowed price range for this recipe.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2519	1	a,You cannot add any more points to this attribute.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2520	1	a,You've increased one of your base attribute.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2521	1	a,You don't have any bonus points to distribute.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2522	1	a,You don't have enough item(s) to pay for rebirth.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2523	1	a,You have reached rebirths limit.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2524	1	a,Your level is to low to perform a rebirth.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2525	1	a,You don't have enough item(s) to acquire AIO status!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2526	1	a,Congratulations! You have acquired AIO status!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2527	1	a,Your level is too low to acquire AIO status!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2528	1	a,This AIO option is disabled!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2529	1	a,AIO status can be acquired only in main class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2530	1	a,You already have AIO status!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2531	1	a,Your AIO status will be removed shortly.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2532	1	a,Please switch to your main class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2533	1	a,You have to be AIO character in order to use this option!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2534	1	a,Your AIO status just expired!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2535	1	a,Your AIO status will expire in $s1 day(s) $s2 hour(s) and $s3 minute(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2536	1	a,You have $s1 second(s) left in this instance zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2537	1	a,You have no time left in this instance zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2538	1	a,You don't have enough item(s) to change the class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2539	1	a,Your level is too low. Please come back when your level will be 76 or above.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2540	1	a,This class cannot be acquired through Class Manager.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2541	1	a,Your level is too low. Please come back when your level will be 40 or above.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2542	1	a,Your level is too low. Please come back when your level will be 20 or above.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2543	1	a,You cannot change class anymore!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2544	1	a,Congratulations! You've changed your class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2545	1	a,Congratulations! You've became a noblesse.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2546	1	a,You don't have enough item(s) to become a nobless.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2547	1	a,Your subclass have to be at level 75 or above to become a nobless.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2548	1	a,In order to become a nobless please switch to your subclass.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2549	1	a,You already have a nobless status.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2550	1	a,Congratulations! You've finished Sub Class Quest.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2551	1	a,You dont' have enough item(s) to acquire Sub Class Quest.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2552	1	a,Your level have to be 75 or above to be able to acquire sub class.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2553	1	a,$s1 will disappear in $s2 hour(s) and $s3 minute(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2554	1	a,Fixed time:\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2555	1	a,$s1 will disappear in less than a minute.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2556	1	a,You have entered a combat zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2557	1	a,You have left a combat zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2558	1	a,Your character level is to low.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2559	1	a,Your character level is to high.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2560	1	a,You cannot use this teleport during the castle siege.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2561	1	a,You cannot use this teleport while participing in olympiad games!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2562	1	a,You cannot use teleport in combat mode!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2563	1	a,You don't have enough adena to pay for our service!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2564	1	a,You don't have enough item(s) to pay for our service!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2565	1	a,You have entered a Mining Zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2566	1	a,You have left a Mining Zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2567	1	a,You have to be alive to continue!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2568	1	a,You have already made a stacked class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2569	1	a,You have to finish 3rd class quest to be able to stack another class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2570	1	a,You've got too low level to be able to stack the class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2571	1	a,You don't have enough item(s) to pay for switching the class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2572	1	a,You don't have a stacked class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2573	1	a,You don't have enough item(s) to remove the stacked class!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2574	1	a,Only noble characters are allowed in this zone.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2575	1	a,$s1 will disappear in $s2 minute(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2576	1	a,$s1 life time expired.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2577	1	a,You cannot participe in TvT event at the moment.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2578	1	a,Only alive players can participe in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2579	1	a,You cannot participe in TvT event while being in current location!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2580	1	a,You've been unregistered from TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2581	1	a,You cannot unregister from TvT event at the moment.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2582	1	a,The Cursed Weapon owner cannot participe in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2583	1	a,You cannot register more than one character in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2584	1	a,You've been registered in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2585	1	a,You don't have enough item(s).\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2586	1	a,There are no empty slots in TvT event, please come back later.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2587	1	a,Your level is too high to participe in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2588	1	a,Your level is too low to participe in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2589	1	a,You already are participing in TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2590	1	a,You're outside combat zone, you'll be expelled from TvT event in $s1 seconds.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2591	1	a,You're outside combat zone, you've been expelled from TvT event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2592	1	a,Your level is too low to be married!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2593	1	a,Your level is too high to be married!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2594	1	a,You cannot engage/marry anyone at the moment!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2595	1	a,The penalty for breaking your last relationship didn't pass yet.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2596	1	a,Congratulation! Your engagement has been accepted!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2597	1	a,Congratulation! You're now engaged.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2598	1	a,Your friend rejected your engagement!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2599	1	a,Your partner have to be online!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2600	1	a,Your partner doesn't meet requirements!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2601	1	a,Homo marriages are not allowed in this server!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2602	1	a,You can engage only players from your friendlist!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2603	1	a,Your partner have to be online in order to get engaged!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2604	1	a,You're now asking your partner if he/she will marry you...\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2605	1	a,Your partner have to equip Formal Wear!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2606	1	a,In order to continue please equip Formal Wear!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2607	1	a,Your partner doesn't have enough required items!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2608	1	a,You don't have enough required items!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2609	1	a,Your partner is too far away from you!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2610	1	a,Seems like your partner isn't engaged with you at the moment.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2611	1	a,You can marry players from your friendlist only!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2612	1	a,Your partner have to be online in order to get married!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2613	1	a,In order to get married you have to engage first!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2614	1	a,Congratulation! You're now married!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2615	1	a,Your partner isn't ready yet to be married!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2616	1	a,You're no longer in relationship with your partner!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2617	1	a,Go to love reuse delay didn't pass yet!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2618	1	a,Your love is engaged in fight or in a zone that forbids teleportation!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2619	1	a,You cannot teleport to your love in current state!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2620	1	a,You have to be married in order to get .gotolove command working.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2621	1	a,Congratulations! You crafting has been doubled.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2628	1	a,Captcha System: Be carefull, maybe you will teleported...\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2629	1	a,Captcha System: Multiple Wrong Answer! You will teleported back to Town!\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2630	1	a,Captcha System: Too much Wrong Answers! You will teleported to Jail!\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2631	1	a,Captcha System: Correct Answer! Have a nice day!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2632	1	a,You have entered a DailyPvP zone.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2633	1	a,You have left a DailyPvP Zone.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2634	1	a,Captcha System: You have $s1 second(s) to solve this question.\0	3	0	0	F5	FF	a,	a,	2	0	5	1	1	a,Solve Remaining Time: $s1 seconds!\0	a,none\0
+2635	1	a,Captcha System: Time Up! You will teleported back to town.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2636	1	a,Captcha System: You cannot solve captcha right now.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2637	1	a,Jail System: You have been jailed for $s1 minute(s).\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2638	1	a,Jail System: You have been unjailed.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2639	1	a,Jail System: You have $s1 hour(s) and $s2 minute(s) until get unjailed.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2640	1	a,Captcha System: Be carefull you may get punished!\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2641	1	a,Jail System: You have less than a minute until get unjailed.\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2642	1	a,Your class isn't allowed on that TvT Event!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2643	1	a,$s1 added an Augmented $s2 +$s3 into the trade.\0	4	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,popup\0
+2644	1	a,$s1 added an Augmented $s2 +$s3 into the trade with the following augmentation effects:\0	0	B2	B0	5A	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2645	1	a,$s1\0	0	6D	6B	E1	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2646	1	a,Please be extra cautious during this transaction to prevent inadvertent damage or loss.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2647	1	a,$s1 added a $s2 +$s3 into the trade with no augmentation effects.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2648	1	a,You don't have any party in order to register on event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2649	1	a,Only Party Leader can register on event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2650	1	a,Your party has been registered into the event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2651	1	a,You don't have any party in order to un-register on event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2652	1	a,Only Party Leader can un-register on event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2653	1	a,Your party has been un-registered into the event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2654	1	a,You've been registered in Korean Event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2655	1	a,You Fight with $s1!\0	0	79	9B	B0	FF	a,	a,	2	0	5	1	0	a,You Fight with $s1!\0	a,none\0
+2656	1	a,Player $s1 fight with Player $s2!\0	0	79	9B	B0	FF	a,	a,	2	0	5	1	0	a,Player $s1 fight with Player $s2!\0	a,none\0
+2657	1	a,You have been choosen to play on Korean Event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2658	1	a,Unfortunately you wont participate on the event.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2659	1	a,Congrats! You won this round!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2660	1	a,$s1\0	3	0	0	F5	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2661	1	a,$s1\0	3	19	D5	4A	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2662	1	a,You can use auction house only into Peace Mode!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2663	1	a,You can use auction house only if you don't have Karma!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2664	1	a,You cannot use auction house during combat mode!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2665	1	a,You don't have enough adena to pay auction fee.\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2666	1	a,You cannot set more auctions! You reached the limit!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2667	1	a,Your auction has been created!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2668	1	a,You successfully removed your auction!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2669	1	a,Your auction cannot be found, please try again!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2670	1	a,You don't have enough space in your inventory in order to delete your auction!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2671	1	a,Something gone wrong with the cancellation of the auction. Please Try Again!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2672	1	a,We cannot locate your auction, propably it sold!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2673	1	a,The auction doesn't exist anymore!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2674	1	a,We're sorry there are not enough items left in the auction!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2675	1	a,You dont have the required items in order to buy this item!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2676	1	a,You've got not enough space in your inventory!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2677	1	a,You cannot buy your own item!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2678	1	a,You've just bought $s1 $s2 for $s3 $s4 through Auction House.!\0	0	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2679	1	a,\0	2	79	9B	B0	FF	a,	a,	8	0	3	1	0	a,$s1 has just been spawned!\0	a,server\0
+2800	1	a,$s1\0	4	79	9B	B0	FF	a,	a,	0	0	0	0	0	a,	a,none\0
+2801	1	a,$s1 $s2\0	0	40	FF	0	FF	a,	a,	0	0	0	0	0	a,	a,none\0

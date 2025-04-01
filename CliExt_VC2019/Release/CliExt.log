@@ -1,0 +1,4 @@
+﻿  CliExt.cpp
+D:\Servidores\L2OFF_INTERLUDE\Extender\CliExt_VC2019\CliExt.cpp(482,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+     Creando biblioteca ../../Cliente_HB/system/\L2Servers.lib y objeto ../../Cliente_HB/system/\L2Servers.exp
+  CliExt.vcxproj -> D:\Servidores\L2OFF_INTERLUDE\Cliente_HB\system\L2Servers.dll
